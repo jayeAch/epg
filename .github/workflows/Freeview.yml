@@ -1,4 +1,4 @@
-name: Channels Parse and Grab
+name: Freeview Parse and Grab
 on:
   schedule:
     # Runs every 12 hours at minute 0
