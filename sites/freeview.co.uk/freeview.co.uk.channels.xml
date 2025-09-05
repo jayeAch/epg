@@ -61,7 +61,7 @@
   <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#27808">Together TV IP</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#28032">That&apos;s Melody</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#28160">Premier Radio</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#28352">GREAT! player</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#28352">Great! Player</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#28384">GREAT! romance mix</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#33088">3ABN</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="" site_id="64257#33664">TRACE UK</channel>
@@ -113,11 +113,11 @@
   <channel site="freeview.co.uk" lang="en" xmltv_id="GBNews.uk" site_id="64257#27360">GB News</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="GemsTV.uk" site_id="64257#24448">Gems TV</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="GODTV.uk" site_id="64257#16256">God TV</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATaction.uk" site_id="64257#15576">GREAT! action</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATmovies.uk" site_id="64257#27872">GREAT! movies</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATmystery.uk" site_id="64257#15584">GREAT! mystery</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATromance.uk" site_id="64257#27296">GREAT! romance</channel>
-  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATtv.uk" site_id="64257#27168">GREAT! tv</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATaction.uk" site_id="64257#15576">Great! Action</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATmovies.uk" site_id="64257#27872">Great! Mystery</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATmystery.uk" site_id="64257#15584">Great! Movies</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATromance.uk" site_id="64257#27296">Great! Christmas</channel>
+  <channel site="freeview.co.uk" lang="en" xmltv_id="GREATtv.uk" site_id="64257#27168">Great! TV</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="HGTV.uk" site_id="64257#28000">HGTV</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="HobbyMaker.uk" site_id="64257#27840">HobbyMaker</channel>
   <channel site="freeview.co.uk" lang="en" xmltv_id="IdealWorldTV.uk" site_id="64257#25920">Ideal World</channel>
